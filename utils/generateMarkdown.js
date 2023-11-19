@@ -37,11 +37,12 @@ ${data.installation}
 ## Usage
 ${data.usage}
 ## Contributions
-${data.contributing}
+${data.contributions}
 ## Tests
 ${data.tests}
 ## Questions
 ${data.questions}
+
 For further questions, contact me here:
 - GitHub: https://github.com/${data.github}
 - Email: ${data.email}
