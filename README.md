@@ -1,11 +1,11 @@
-# README Writer
+# README Generator
 
 ## Description
 
 This repo contains the content for week 9
 
 - I wanted to create a tool that can be used to quickly and effectively write a quality README for the user.
-- The application asks the user simple questions in the terminal, and takes the user's inputs and puts them into the README2.md file
+- The application asks the user simple questions in the terminal, and takes the user's inputs and puts them into the README2.md file inside the output folder.
 - I learned more about about node, and using the terminal to run code.
 
 ## Installation
@@ -18,6 +18,7 @@ This repo contains the content for week 9
 
 When a user runs the node command to run the code, they will be asked questions about the project they are working on, such as the title, description, which license they are using, etc. The code then takes the user's answers to those questions and puts them into a README. This makes the user able to spend more time writing code, rather than scrambling to get a quality README in order.
 
+Link to video of application: https://drive.google.com/file/d/1OQZU7CNKnQfOOsMUjOZItOdPRDGC83f_/view
 
 ## Credits
 

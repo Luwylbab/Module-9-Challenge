@@ -68,7 +68,7 @@ function init() {
         .then((data) => {
             console.log(data)
             const markdown = generateMarkdown(data)
-            fs.writeFile("README2.md", markdown, (err) =>
+            fs.writeFile("./output/README2.md", markdown, (err) =>
                 err ? console.log(err) : console.log('Success!')
             );
         });
