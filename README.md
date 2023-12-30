@@ -10,9 +10,9 @@ This repo contains the content for week 9
 
 ## Installation
 
-- Get SSH key from https://github.com/Luwylbab/Module-9-Challenge
+- Get SSH key from https://github.com/Luwylbab/readme-generator
 
-- Clone the repository using [git@github.com:Luwylbab/Module-9-Challenge.git]
+- Clone the repository using [git@github.com:Luwylbab/readme-generator.git]
 
 ## Usage
 
